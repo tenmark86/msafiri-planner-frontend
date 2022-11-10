@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
     return (
         <div>
-            <h1 className="title">Welcome to Trip Planner</h1>
+            <h1 className="title">Welcome to Msafiri Planner</h1>
             <img src= "https://wallpaperaccess.com/full/4190216.jpg"/>
 
             <p className="home_paragraph">
